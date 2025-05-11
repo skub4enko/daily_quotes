@@ -1,0 +1,8 @@
+# Python
+venv/
+.idea
+build
+dist
+phrase_state.json
+*.spec
+
